@@ -1,0 +1,73 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Stadtrad-Analyse</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+  </head>
+  <body>
+    <a href="https://github.com/alarmschaben/stadtrad"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
+    <script src="js/bootstrap.min.js"></script>
+    <div class="navbar navbar-inverse">
+      <div class="navbar-inner">
+        <a class="brand" href="#">Stadtrad-Analyse</a>
+        <ul class="nav">
+          <li><a href="index.html">Graphen</a></li>
+          <li class="active"><a href="about.html">Info/Impressum</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="row-fluid">
+      <div class="span2">
+        <ul class="nav nav-pills nav-stacked">
+          <li><a href="bikes3h.html">Letzte 3h</a></li>
+          <li><a href="bikes24h.html">Letzte 24h</a></li>
+          <li><a href="bikes48h.html">Letzte 2 Tage</a></li>
+          <li><a href="bikes1w.html">Letzte Woche</a></li>
+          <!--
+          <li><a href="#">Letzter Monat</a></li>
+          <li><a href="#">Letzte 3 Monate</a></li>
+          <li><a href="#">Letztes Jahr</a></li>
+          -->
+        </ul>
+      </div>
+      <div class="span7">
+        <!-- <div id="content" style="min-width: 80%; height: 400px; margin: 0 auto"></div> -->
+        <h3>Verantwortlich f&uuml;r das Angebot</h3>
+        <address>
+          Armin F. Gnosa<br>
+          Ordulfstr. 53<br>
+          22459 Hamburg<br>
+          <a href="mailto:stadtrad@netzaufsicht.de">stadtrad@netzaufsicht.de</a><br>
+          <h3>Warum?</h3>
+          Als gro&szlig;er Fan des Stadtrad-Angebotes in Hamburg bin ich entt&auml;uscht, wenn ich hin und wieder an einer
+          Station keine Fahrr&auml;der vorfinde. Um den Verlauf der verf&uuml;gbaren R&auml;der &uuml;ber den Tag einmal
+          genauer zu erforschen (und um mir endlich einmal Javascript beizubringen), entsteht dieses kleine Projekt hier.
+          Abgesehen davon: warum nicht?<p>
+          Das hier ist Work in Progress und es kann (und wird) &ouml;fter etwas kaputtgehen. F&uuml;r Fragen, Kritik
+          und Anregungen bin ich immer offen!<p>
+          Wichtigster  n&auml;chster Schritt ist f&uuml;r mich eine Auswahlm&ouml;glichkeit, welche Stationen in einem
+          Graphen dargestellt werden, denn die jetzt angezeigten Stationen sind nur eine willk&uuml;rliche Auswahl.<p>
+          Zum Selberhacken: <a href="http://alarmschaben.github.com/stadtrad">http://alarmschaben.github.com/stadtrad</a>
+          <h3>Tribut</h3>
+          Die grundlegende Idee f&uuml;r die Umsetzung ist von Christian Stade-Schuldt (<a href="http://www.tafkas.org">http://www.tafkas.org</a>)
+          &uuml;bernommen, der auf &auml;hnliche Weise mit seinem Raspberry Pi Temperaturen und Luftfeuchtigkeit aufzeichnet.<p>
+          Zu Bestaunen hier: <a href="http://thule.mine.nu/html">http://thule.mine.nu/html</a><p>
+          Weitere vewendete Komponenten:<br>
+          <ul>
+            <li>jQuery (<a href="http://jquery.com">http://jquery.com</a>)</li>
+            <li>Bootstrap by Twitter (<a href="http://twitter.github.io/bootstrap">http://twitter.github.io/bootstrap</a>)</li>
+            <li>Highcharts (<a href="http://www.highcharts.com">http://www.highcharts.com</a>)
+          </ul>
+          <h3>Disclaimer</h3>
+          Dieses Angebot steht in keinerlei Zusammenhang mit der DB FuhrparkService GmbH oder der DB Rent GmbH.
+          Ferner besteht kein Anspruch auf Richtigkeit oder Vollst&auml;ndigkeit der hier gezeigten Informationen.<p>
+          Und auf Verf&uuml;gbarkeit schon mal gar nicht. ;-)
+        </address>
+      </div>
+    </div>
+    <div id="structure"></div>
+  </body>
+</html>

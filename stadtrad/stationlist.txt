@@ -1,0 +1,126 @@
+2214 Universität / Schlüterstraße
+2215 Allende-Platz/Grindelhof
+2212 Universität / Moorweidenstraße
+2231 Hallerstraße / Rohtenbaumchaussee
+2211 Bahnhof Dammtor Nord // Theodor-Heuss-Platz
+2528 Bahnhof Dammtor Süd / Marseiller Straße
+2512 St.Petersburger Strasse/Bei den Kirchhöfen
+2213 Harvestehuder Weg / Alte Rabenstraße
+2232 Grindelberg / Bezirksamt Eimsbüttel
+2221 U-Bahn Schlump
+2524 Gänsemarkt / Büschstraße
+2511 Messehallen / Marktstraße
+2233 Innocentiapark/Oberstraße
+2526 Sievekingplatz/Gorch-Fock-Wall
+2523 Jungfernstieg / Neuer Jungfernstieg
+2241 Isestraße / Hoheluftbrücke
+2222 Christuskirche/Fruchtallee
+2522 Axel-Springer-Platz/Wexstr.
+2533 Jungfernstieg / Ballindamm
+2624 Enckeplatz / Hütten
+2316 Leinpfad/Fernsicht
+2131 Neuer Pferdemarkt / Beim Grünen Jäger
+2132 Schulterblatt/Eifflerstraße
+2223 Osterstraße/Bismarckstraße
+2623 Großneumarkt/Thielbek
+2531 Alter Wall/Adolphsbrücke
+2534 Kleine Rosenstraße / Gerhart-Hauptmann-Platz
+2235 Eppendorfer Baum / Isestraße
+2536 Hauptbahnhof West / Glockengießer Wall
+2521 Stadthausbrücke / Neuer Wall
+2636 Mönckebergstraße / Rosenstraße
+2542 Lange Reihe / Kirchenallee
+2535 Kurze Mühren/Spitalerstraße
+2541 Hauptbahnhof Ost / Hachmannplatz
+2321 Eduard-Rhein-Ufer / Schwanenwik
+2243 Eppendorfer Weg/Hoheluftchaussee
+2242 Goebenstraße/Eppendorfer Weg
+2544 Lange Reihe / Lohmühlenpark
+2244 Löwenstraße/Eppendorfer Weg
+2632 Rödingsmarkt / Großer Burstah
+2612 Millerntorplatz/St.Pauli
+2637 Jacobikirche / Steinstraße
+2639 Mönckebergstraße / Steintorwall
+2635 Schopenstehl/Alter Fischmarkt
+2613 Paulinenplatz/Wohlwillstraße
+2622 Michaeliskirche / Krayenkamp
+2633 Domstraße/Willy-Brandt-Straße
+2324 Hofweg/Am Langenzug
+2135 Eimsbütteler Straße/Waterloostraße
+2644 Steindamm / Stralsunder Straße
+2634 Meßberg / Willy-Brandt-Straße
+2224 Emilienstraße/Fruchtallee
+2641 Zentralbibliothek / Münzstraße
+2638 Steinstraße / Deichtorplatz
+2311 Alsterschwimmhalle/Ifflandstrasse
+2326 Winterhuder Weg/ Zimmerstrasse
+2646 Lohmühlenstraße / Steindamm
+2363 Goldbekplatz / Semperstraße
+2371 Kellinghusenstraße / Loogeplatz
+2631 U-Bahn Baumwall
+2621 Landungsbrücke/Hafentor
+2643 Kurt-Schumacher-Allee / Nagelsweg
+2672 Auf dem Sande/Kehrwieder-MiniaturWunderland
+2225 Heußweg/Wiesenstrasse
+2611 Bernhard-Nocht-Straße/Zirkusweg
+2373 Martinistraße / Haupteingang Klinikum
+2134 Alsenstrasse/Düppelstrasse
+2372 Kümmellstraße / Robert-Koch-Straße
+2315 Uhlandstraße / Eingang Nord
+2323 Mundsburg / Schürbeker Straße
+2642 Amsinckstr/ Nordkanalbrücke
+2673 Am Kaiserkai/Großer Grasbrook
+2111 Reeperbahn / Königstraße
+2312 Lübecker Straße / Marienkrankenhaus
+2674 Osakaallee/Übersee Quartier
+2645 Berliner Tor / Berlinertordamm
+2322 Lerchenfeld / Uferstraße
+2364 Jarrestraße / Rambatzweg
+2333 Bartholomäusstraße/Beim Alten Schützenhof
+2671 Unilever/Strandkai
+2226 Methfesselstrasse/Luruper Weg
+2369 Hudtwalckerstraße / Bebelallee
+2314 Wartenau / Lübecker Straße
+2116 Chemnitzstraße / Max-Brauer-Allee
+2115 Große Bergstraße / Jessenstraße
+2112 Fischmarkt/Breite Straße
+2551 Eiffestrasse/Normannenweg
+2651 Hammerbrook / Sachsenfeld
+2313 Landwehr / Ramazan-Avci-Platz
+2367 Borgweg/Stadtpark
+2332 Holsteinischer Kamp/ Wagnerstraße
+2334 Weidestraße/Biedermannplatz
+2331 Uferstrasse/Wagnerstrasse
+2113 Königstraße / Struenseestraße
+2383 Bebelallee/Meenkwiese
+2336 Schleidenstrasse/Osterbekstrasse
+2381 Planetarium/Hindenburgstraße
+2121 Bahnhof Altona Ost/Max-Brauer-Allee
+2561 Burgstraße/Hammer Landstraße
+2411 Wandsbeker Chaussee/Ritterstr
+2122 Bahnhof Altona West / Busbahnhof
+2365 Saarlandstrasse/Wiesendamm
+2335 Dehnhaide/Barmbeker Markt
+2366 Südring/Stadthallenbrücke
+2126 Bahrenfelder Strasse/Völckersstrasse
+2114 Ottenser Marktplatz/Museumsstraße
+2251 Koppelstrasse/Lokstedter Grenzstr
+2337 Lortzingstrasse/Friedrichsberger Strasse
+2351 Wiesendamm/Roggenkamp
+2124 Eulenstrasse/Große Brunnenstrasse
+2412 Hasselbrookstr/Papenstr
+2125 Fischersallee/Bleickenallee
+2382 Überseering/Mexikoring
+2562 Bei der Hammer Kirche/Hammerpark
+2681 Billstraße/Billhorner Deich
+2413 Wandsbeker Chaussee/ Börnestrasse
+2341 Krausestrasse/Eilbektal
+2682 Rothenburgsort/Marktplatz/Lindleystr
+2691 Wilhelmsburger Platz/Zur Schleuse
+2151 Neumühlen/Övelgönne
+2431 Schloßstrasse/Schloßgarten
+2432 Wandsbeker Marktstr/Wandsbeker Marktplatz
+2711 Mannesallee/Veringstrasse
+2712 Barkassenanleger/Mengestrasse
+2713 Neuenfelder Strasse/Am Inselpark
+2714 Berta-Kröger-Platz/Wilhelm-Strauß-Weg
