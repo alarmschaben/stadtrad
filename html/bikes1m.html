@@ -1,0 +1,66 @@
+  <!DOCTYPE HTML>
+  <html>
+    <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+      <title>Stadtrad-Analyse</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+
+      <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+      <script type="text/javascript">
+        $(function(){
+          $("#structure").load("struct.html");
+        });
+      </script>
+    </head>
+    <body>
+    <a href="https://github.com/alarmschaben/stadtrad"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
+
+      <script src="js/highcharts.js"></script>
+      <script src="js/chart_global.js"></script>
+      <script type="text/javascript">
+        $(document).ready(function(){
+          $.ajax({
+            type: "GET",
+            url: "xml/bikes1m.xml",
+            dataType: "xml",
+            success: function(xml) {
+              var series = []
+
+              //define series
+              $(xml).find("entry").each(function() {
+                var seriesOptions = {
+                  name: $(this).text(),
+                  data: []
+                };
+                options.series.push(seriesOptions);
+              });
+
+              //populate with data
+              $(xml).find("row").each(function() {
+                var t = parseInt($(this).find("t").text()) * 1000
+
+                $(this).find("v").each(function(index) {
+                  var v = parseFloat($(this).text())
+                  v = v || null
+                  if (v != null) {
+                      v = Math.round(v)
+                      options.series[index].data.push([t, v])
+                  };
+                });
+              });
+
+              options.title.text = "Freie Stadträder in HH"
+              $.each(series, function(index) {
+                options.series.push(series[index]);
+              });
+              options.subtitle.text = "Letzter Monat";
+              chart = new Highcharts.Chart(options);
+            }
+          });
+        });
+      </script>
+      <script src="js/bootstrap.min.js"></script>
+      <div id="structure"></div>
+  </body>
+</html>
